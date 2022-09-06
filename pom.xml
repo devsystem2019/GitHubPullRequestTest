@@ -5,7 +5,7 @@
 
 	<groupId>com.snc.devops.test</groupId>
 	<artifactId>SnDevOps_GithubActionsTest</artifactId>
-	<version>1.34.2-SNAPSHOT</version>
+	<version>1.36.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>SnDevOps_GithubActionsTest</name>
