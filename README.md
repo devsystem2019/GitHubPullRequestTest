@@ -1,3 +1,3 @@
-# GithubActionsTest
+# GitHub Pull Request Test
 
-This project is dedicated for test automation of Github Actions related scenarios. Please DO-NOT update things without knowing the consequences!!
+This repository is used for GitHub pull request support test validation, please DO NOT make any changes to this repository.
